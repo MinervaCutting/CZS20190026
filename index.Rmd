@@ -182,6 +182,8 @@ END OF THE PROGRAM
 
   * Restaurant rates are valid for 2019, they can suffer small changes.
   
+  * Football and Bullfight dates are estimated, the final dates and hours will be published 15 days prior the event.
+  
   * Net rates for Metatours
   
   * Rates valid for a group of 40 pax

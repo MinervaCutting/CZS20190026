@@ -1,0 +1,232 @@
+---
+title: "METATOURS"
+author: "SEVILLA GROUP"
+date: '16th to 18th May, 2020'
+output:
+ 
+  html_document:
+    css: FORMATO.css
+    highlight: textmate
+    theme: cosmo
+    toc: yes
+    toc_float: yes
+---
+
+<script> 
+    $(document).ready(function() { 
+    $head = $('#header'); 
+    $head.prepend('<A href = https://www.cuttingedge-events.com><img src ="LOGO.png" width="150" vspace="50" align="right"></A>') 
+    }); 
+</script> 
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message=FALSE, warning=FALSE)
+```
+
+
+```{r libraries}
+library(readxl)
+library(dplyr)
+library(knitr)
+library(timevis)
+
+```
+
+## Accommodation
+
+### Mail Hotel: Catalonia Giralda
+
+<iframe src="CataloniaGiralda/CataloniaGiralda.html" frameborder="0" width="100%" height="1000" scrolling="no"></iframe>
+
+</br>
+
+### Alternative Hotels {.tabset .tabset-fade .tabset-pills}
+
+#### Meliá Lebreros
+
+<iframe src="MeliaLebreros/MeliaLebreros.html" frameborder="0" width="100%" height="1200" scrolling="no"></iframe>
+</br>
+
+#### H10 Corregidor
+
+<iframe src="H10 Corregidor/Corregidor.html" frameborder="0" width="100%" height="1060" scrolling="no"></iframe>
+
+</br>
+
+
+## Programme
+
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=12v4O9seAnjWQIhDiajIf69EchihFI5Lfsdt-B_YLfqY&font=Default&lang=en&initial_zoom=2&height=450' width='100%' height='450' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+</br>
+
+### MAP
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1QBn9DZ2RECwI6g18b89QrZG9SBvvGnkc&hl=es" width="100%" height="480"></iframe>
+
+</br>
+</br>
+
+### DAY 1 - May 16th, 2020
+
+Calculating the arrival time by 12:00, a member of Cutting Edge Events staff will be at the airport for a meet and greet with the group. Our staff member will scort the group to the bus, that will be located in the bus parking. 
+After this, the group will go directly to the hotel for a quick check in. 
+
+The check in will take about 20 minutes, after this, our assistant will walk the group to **Restaurante Catalina Casa de Comidas** for lunch.
+
+<iframe src="Catalina/Catalina.html" frameborder="0" width="100%" height="960" scrolling="no"></iframe>
+
+</br>
+
+After lunch the group will have some free time to go to the hotel and refresh. The group will meet at the lobby at 16.00h. 
+The **bullfight** will be at 17.00h, so group should be there 30 minutes before. 
+
+Each show has different bullfights, that takes about 20 minutes each. 
+
+* **Location** La Maestranza. 
+* **Duration** 1 h 30' aprox.  
+* **Included** Bus, ticket entrance and english speaking asssistance.
+
+<img src = "https://sevillando.net/wp-content/uploads/2018/01/plaza.toros-maestranza-sevilla-1024x616.jpeg" width="100%">
+
+<img src = "https://cope-cdnmed.agilecontent.com/resources/jpg/3/0/1569565626903.jpg" width="100%">
+
+
+Once the show has finished, the bus will take the group to the restaurant for dinner. The dinner will take place at **El Bacalao**, a restaurant located only 15  minutes walking from the hotel.
+
+
+<iframe src="El Bacalao/El Bacalao.html" frameborder="0" width="100%" height="1100" scrolling="no"></iframe>
+
+After dinner they will go back to the hotel by foot.
+
+### DAY 2 - May 17th, 2020
+
+Sevilla is a beautiful city, many people say that is the most beautiful city in Spain and we think it worth to do a **walking tapas tour** through the old town and its well know quarters.
+
+Two English speaking guides (Czech if available) will pick up the group at the hotel at 11.00h and they will split them in 2 groups.
+
+From the hotel they will go to Sevilla's Cathedral, they will walk trough the narrow streets in Santa Cruz quarter, they will see the spectacular Plaza España...during the tour they will do three stops in differebt tapas restaurants.
+
+En each restaurant they will enjoy 3 tapas and 1 drink.
+
+* **Location** Sevilla Old Town 
+* **Duration** 4h aprox.  
+* **Included** 2 English speaking guides, 3 stops (9 tapas and 3 drinks in total) 
+
+
+<img src = "https://cdn.civitatis.com/espana/sevilla/galeria/entrada-patio-banderas.jpg" width="100%">
+
+<img src = "https://www.lavanguardia.com/r/GODO/LV/p5/WebSite/2018/05/22/Recortada/img_lbernaus_20160303-165203_imagenes_lv_getty_plaza-espana-sevillas-k9nD--992x558@LaVanguardia-Web.jpg" width="100%">
+
+
+
+After the tour, group will go back to the hotel and they'll have the possibility to rest for a while before going to **Benito Villamarin** to see the **Betis vs Alaves football match**.
+
+Figuring out that the game starts at 18:00, we will meet in the lobby at 16:45 to go to the stadium by bus. The stadium is 15 minutes by bus from the hotel, but usually guests prefer to be at least one hour prior to the match time to buy stuff and drinks.
+
+*The Club can't guarantee that all 40 people will be sitted together*
+
+Once we arrive, our english speaking assistance will guide guests to the stadium and their door entrance.
+
+* **Location** Benito Villamarín Stadium 
+* **Duration** 2 hours aprox.  
+* **Included** Bus, ticket entrance and english speaking asssistance.
+
+<img src = "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2017/10/11/15077079412599.jpg" width="100%">
+
+*We recommend to buy lateral or tribune tickets. As told, the Club can't guarantee that all 40 people will be sitted together.*
+
+
+
+Once the game has finished, our English speaking assistance will meet with the group outside the stadium to pick them up and scort them to the bus. 
+
+The bus will take the group directly to the restaurant where they will have the dinner,  restaurant **Brasería la Quinta**. The restaurant is only 5 minutes by walk from the hotel. 
+
+<iframe src="Quinta/Quinta.html" frameborder="0" width="100%" height="1100" scrolling="no"></iframe>
+
+
+### DAY 3 - May 18th, 2020
+
+To end this Spanish weekend with bull, football and tapas the only think that would be missing is wine. So, we propose to visit **Tio Pepe winery** in Jerez before go home.
+
+Guests will do the check-out in the hotel at 9.30h, at 9.45h our bus and our English speaking assistant will pick up them and all the luggage to go to Jerez. It takes around 1h15m by bus.
+
+Guests will arrive at the winery around 11.00h, an expert from the winery will welcome them and during 1h they will visit the facilities and they will learn how this sweet wine is elaborated.
+
+<img src = "https://onlinelicor.es/wp-content/uploads/2016/12/pepe_1.jpg" width="100%">
+
+At 12.00h guests will start lunch, it will be a pairing menu. Each course will come with a different wine and an expert from the winery will explain why they are offering this specific combination.
+
+They will enjoy some appetizers, starter, main course, dessert and coffee.
+
+<img src = "https://cdn.tourcms.com/a/6229/40/1/large.jpg" width="100%">
+
+<img src = "https://onlinelicor.es/wp-content/uploads/2018/01/Bodegas-Lustau-bodega-1.jpg" width="100%">
+
+After lunch guests will go directly to the airport.
+
+END OF THE PROGRAM
+
+*****
+
+## Budget
+
+<iframe src="sevillabudget.html" frameborder="0" width="100%" height="1000" scrolling="no"></iframe>
+
+<br>
+
+## Terms & Conditions
+
+  * Restaurant rates are valid for 2019, they can suffer small changes.
+  
+  * Net rates for Metatours
+  
+  * Rates valid for a group of 40 pax
+  
+  * Cutting Edge Events management fee including in the detailed rates
+  
+  * VAT included. 
+  
+  * No reservation has been done. Availability upon request.
+
+## Amaze your clients!!
+
+<div class="client_offer">
+
+<p>Didn't you just love our presentation ? Our first goal here at _**Cutting Edge Events**_ is to help you **win** this business. You will most likely now collate the information contained in this website and make your own presentation
+to show your client<br>
+
+<p>Why not leverage our technology, and present your client with the same format ? As a **totally free service**, we offer you the possibility of doing the work for you</p>
+
+<p> We will: 
+  <ul>
+    * Follow your instructions to add anything you want to be in your presentation, and delete anything that you don't consider relevant
+    * Include your logo and company details, and remove all our company details
+    * We can even change some colors to mimic your corporate identity
+    * We will send you the new link, and it will look as if it was your work
+  </ul>
+</p>
+</div>
+
+<style>
+
+.client_offer{
+background-color: #ee7600;
+color: white;
+padding: 10px;
+border: 1px solid black;
+margin-left: 25px;
+margin-right: 25pax;
+border-radius: 5px;
+font-style: italic;
+}
+</style>
+
+******************
+
+
+
+
